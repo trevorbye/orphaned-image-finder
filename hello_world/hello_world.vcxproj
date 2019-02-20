@@ -121,9 +121,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="app.cpp" />
+    <ClCompile Include="ContainerEntity.cpp" />
     <ClCompile Include="LocationEntity.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ContainerEntity.h" />
     <ClInclude Include="LocationEntity.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

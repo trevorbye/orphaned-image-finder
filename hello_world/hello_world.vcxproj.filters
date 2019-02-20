@@ -21,9 +21,15 @@
     <ClCompile Include="LocationEntity.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ContainerEntity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LocationEntity.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ContainerEntity.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
